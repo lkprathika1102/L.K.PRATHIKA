@@ -1,2 +1,2 @@
 # L.K.PRATHIKA
-my first project
+A simple personal website starter built with HTML, CSS, and JavaScript.
